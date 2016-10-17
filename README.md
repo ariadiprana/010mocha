@@ -17,6 +17,6 @@ npm start
 npm test
 ```
 ### Capture
-<img src="./public/images/sc1.png">
+<img src="./public/images/SC1.png">
 
-<img src="./public/images/sc2.png">
+<img src="./public/images/SC2.png">
